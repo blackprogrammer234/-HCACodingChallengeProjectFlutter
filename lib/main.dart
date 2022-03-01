@@ -9,6 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: "Home",
+      theme: new ThemeData(scaffoldBackgroundColor: const Color(0x333333)),
       home: StackOverflowHomePage()
     );
   }
