@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hca_coding_project_flutter/routeGenerator.dart';
-import 'package:hca_coding_project_flutter/stackoverflow_home_page.dart';
+import 'package:hca_coding_project_flutter/ui/home_view/stackoverflow_home_page.dart';
 
 void main() =>runApp(MyApp());
 
